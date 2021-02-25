@@ -1,0 +1,4 @@
+spring:
+  redis:
+    port: 7001
+    host: 192.168.43.113
